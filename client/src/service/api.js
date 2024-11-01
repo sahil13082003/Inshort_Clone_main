@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // const URL = 'http://localhost:8000';
-const URL = '';
+const URL = 'https://inshort-clone-q7qf.onrender.com';
 
 // requesting data from the server
 export const getNews = async () => {
